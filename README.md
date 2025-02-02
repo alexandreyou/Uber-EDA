@@ -1,12 +1,12 @@
 ## Analyse Exploratoire des Données Uber
 
-Ce projet propose une analyse exploratoire des données Uber afin d'extraire des insights utiles sur les tendances et les schémas des demandes de trajets.
+Ce projet propose une analyse exploratoire des données Uber afin d'extraire des insights utiles sur les tendances et les schémas des demandes de trajets allant de l'aéroport au centre-ville et inversement.
 
-# Contenu du dépôt
+# Contenu
 
 * uber.ipynb : Notebook Jupyter contenant l'analyse des données.
 * Uber Request Data.csv : Jeu de données utilisé pour l'analyse.
-* README.md : Ce fichier, expliquant le projet et son exécution.
+* README.md 
 
 # Objectifs de l'analyse
 
