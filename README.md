@@ -12,7 +12,7 @@ Ce projet propose une analyse exploratoire des données Uber afin d'extraire des
 
 L'analyse exploratoire vise à :
 
-* -Comprendre la distribution des demandes Uber
-* -Identifier les tendances temporelles (heures de pointe, jours d'affluence, etc.)
-* -Analyser les zones de forte demande
-* -Explorer les facteurs influençant les disponibilités des trajets
+* Comprendre la distribution des demandes Uber
+* Identifier les tendances temporelles (heures de pointe, jours d'affluence, etc.)
+* Analyser les zones de forte demande
+* Explorer les facteurs influençant les disponibilités des trajets
